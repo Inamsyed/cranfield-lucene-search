@@ -1,0 +1,20 @@
+# Build output (recreated by Maven)
+target/
+
+# Lucene index (recreated by running Index)
+index/
+
+# Search results (recreated by running Search)
+results/
+
+# Cranfield dataset (download it separately, see README)
+cranfield/
+
+# trec_eval (download it separately, see README)
+trec_eval-9.0.7/
+trec_eval-9.0.7.tar.gz
+
+# Editor and system files
+.vscode/
+*.class
+.DS_Store
